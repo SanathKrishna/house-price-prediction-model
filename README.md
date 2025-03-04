@@ -19,8 +19,8 @@ This project builds an MLOps pipeline to predict house prices based on features 
 2. **Model Deployment** via Flask API.
 3. **Containerization** using Docker.
 4. **Kubernetes Deployment** for scalability.
-5. **CI/CD** with GitHub Actions for automated builds and deployments.
-6. **Monitoring** with Prometheus and Grafana.
+5. **CI/CD** with GitHub Actions for automated builds and deployments. (TBD)
+6. **Monitoring** with Prometheus and Grafana. (TBD)
 
 ## Folder Structure
 
